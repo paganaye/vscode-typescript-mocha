@@ -4,8 +4,7 @@
 
 <p align="center">  
   <b>A simple project to bootstrap a typescript project with multiple the settings files preconfigured.</b></br>
-
-  
+ 
   <sub>Made with ❤️ by <a href="https://github.com/paganaye">Pascal Ganaye</a></sub>
 </p>
 
@@ -21,6 +20,10 @@ It is not rocket science but it is a bit fiddly to get this three component righ
 - **Test Runner** Mocha tests are available instantly, a couple samples tests are provided.
 - **Visual Studio Code Debugging** is configured and works instantly.
 
+### Caveat
+
+This project only applies for Node projects. 
+There is no browser and no web server in this project.
 
 ## ❯ Table of Contents
 
